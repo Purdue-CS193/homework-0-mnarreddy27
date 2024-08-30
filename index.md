@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# Mahith Narreddy's First CS193 Homework
+
+- I like that we only have one lecture per week
+- It's a more relaxed course to even out the rest of my stressful courses
+- It's taught and run by undergraduate students
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -28,11 +34,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-     # Mahith Narreddy's First CS193 Homework
 
-- I like that we only have one lecture per week
-- It's a more relaxed course to even out the rest of my stressful courses
-- It's taught and run by undergraduate students
 
 ### Jekyll Themes
 
