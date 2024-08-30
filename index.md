@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-#  Mahith Narreddy's First CS193 Homework
+     # Mahith Narreddy's First CS193 Homework
 
 - I like that we only have one lecture per week
 - It's a more relaxed course to even out the rest of my stressful courses
